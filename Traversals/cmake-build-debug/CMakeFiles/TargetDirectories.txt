@@ -1,0 +1,3 @@
+/home/qwerty/CLionProjects/emiris1/Traversals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qwerty/CLionProjects/emiris1/Traversals/cmake-build-debug/CMakeFiles/Traversals.dir
+/home/qwerty/CLionProjects/emiris1/Traversals/cmake-build-debug/CMakeFiles/edit_cache.dir

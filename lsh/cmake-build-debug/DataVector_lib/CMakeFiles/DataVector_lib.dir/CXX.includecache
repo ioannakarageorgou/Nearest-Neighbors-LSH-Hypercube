@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwerty/CLionProjects/emiris1/DataVector_lib/DataVector.cpp
+cmath
+-
+iostream
+-
+DataVector.h
+/home/qwerty/CLionProjects/emiris1/DataVector_lib/DataVector.h
+
+/home/qwerty/CLionProjects/emiris1/DataVector_lib/DataVector.h
+string
+-
+vector
+-
+

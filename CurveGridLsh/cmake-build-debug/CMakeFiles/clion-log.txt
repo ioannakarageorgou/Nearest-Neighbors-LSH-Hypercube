@@ -1,0 +1,4 @@
+/home/jo/programs/clion-2018.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jo/workspace/emiris1/CurveGridLsh
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jo/workspace/emiris1/CurveGridLsh/cmake-build-debug

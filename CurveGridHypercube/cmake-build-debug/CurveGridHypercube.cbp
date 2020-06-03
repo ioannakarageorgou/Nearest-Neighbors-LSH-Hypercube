@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CurveGridHypercube"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CurveGridHypercube">
+				<Option output="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/CurveGridHypercube" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 CurveGridHypercube"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CurveGridHypercube/fast">
+				<Option output="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/CurveGridHypercube" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 CurveGridHypercube/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jo/workspace/emiris1/CurveGridHypercube/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/Curve/Curve.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/Curve/Curve.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/CurveEntry/CurveEntry.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/CurveEntry/CurveEntry.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/CurveGridInit/init.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/CurveGridInit/init.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/CurveToVector/CurveToVector.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/CurveToVector/CurveToVector.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/DataVector/DataVector.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/DataVector/DataVector.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/FileUtils/FileUtils.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/FileUtils/FileUtils.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/Grid/Grid.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/Grid/Grid.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/HashFunctions/hManhattan.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/HashFunctions/hManhattan.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/HashFunctions/hashFunctionHyperCube.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/HashFunctions/hashFunctionHyperCube.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/NNResult/NNResult.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CommonClasses/NNResult/NNResult.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CurveGridHypercube/main.cpp">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/Hypercube/hypercubeManhattan.h">
+			<Option target="CurveGridHypercube"/>
+		</Unit>
+		<Unit filename="/home/jo/workspace/emiris1/CurveGridHypercube/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

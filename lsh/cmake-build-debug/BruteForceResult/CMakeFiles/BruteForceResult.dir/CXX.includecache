@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../DataVector/DataVector.h
+string
+-
+vector
+-
+
+/home/qwerty/CLionProjects/emiris1/BruteForceResult/BruteForce.cpp
+chrono
+-
+BruteForce.h
+/home/qwerty/CLionProjects/emiris1/BruteForceResult/BruteForce.h
+
+/home/qwerty/CLionProjects/emiris1/BruteForceResult/BruteForce.h
+map
+-
+DataVector.h
+/home/qwerty/CLionProjects/emiris1/BruteForceResult/DataVector.h
+chrono
+-
+

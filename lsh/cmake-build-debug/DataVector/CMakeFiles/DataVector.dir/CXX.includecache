@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jo/workspace/emiris1/DataVector/DataVector.cpp
+cmath
+-
+iostream
+-
+DataVector.h
+/home/jo/workspace/emiris1/DataVector/DataVector.h
+
+/home/jo/workspace/emiris1/DataVector/DataVector.h
+string
+-
+vector
+-
+

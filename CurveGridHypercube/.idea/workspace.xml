@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CurveGridHypercube" targetName="CurveGridHypercube" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aa76ecc-e609-45e2-b2b9-3a42ecb9bb02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CurveGridHypercube.dir/main.cpp.o" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SaHBDtTbwnyjtARFDJuhPHlRos" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CurveGridHypercube" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-d ../../Dataset/Trajectory/trajectories_dataset -q ../../Dataset/Trajectory/query_trajectories -k_hypercube 8 -L_grid 1 -M 200 -probes 300 -o output.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CurveGridHypercube" TARGET_NAME="CurveGridHypercube" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CurveGridHypercube" RUN_TARGET_NAME="CurveGridHypercube">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aa76ecc-e609-45e2-b2b9-3a42ecb9bb02" name="Default Changelist" comment="" />
+      <created>1571794648649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571794648649</updated>
+      <workItem from="1571794649920" duration="687000" />
+      <workItem from="1571795351566" duration="2477000" />
+      <workItem from="1571876517993" duration="99000" />
+      <workItem from="1571897529252" duration="556000" />
+      <workItem from="1571947572123" duration="692000" />
+      <workItem from="1571956051345" duration="1686000" />
+      <workItem from="1571996382555" duration="1052000" />
+      <workItem from="1571998278761" duration="311000" />
+      <workItem from="1572007422896" duration="111000" />
+      <workItem from="1572022577912" duration="24000" />
+      <workItem from="1572022612605" duration="1682000" />
+      <workItem from="1572026077882" duration="502000" />
+      <workItem from="1572108345162" duration="1117000" />
+      <workItem from="1572201645466" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="stats">
+      <created>1571997130045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571997130045</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stats">
+      <created>1571997378719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571997378719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="stats">
+      <created>1571998347224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571998347224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="argv,argc">
+      <created>1572023557640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572023557640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="w">
+      <created>1572026465615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572026465615</updated>
+    </task>
+    <task id="LOCAL-00006" summary="w">
+      <created>1572026483502</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572026483502</updated>
+    </task>
+    <task id="LOCAL-00007" summary="same leaks as lshgrid">
+      <created>1572201838924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572201838924</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stats" />
+    <MESSAGE value="argv,argc" />
+    <MESSAGE value="w" />
+    <MESSAGE value="same leaks as lshgrid" />
+    <option name="LAST_COMMIT_MESSAGE" value="same leaks as lshgrid" />
+  </component>
+</project>

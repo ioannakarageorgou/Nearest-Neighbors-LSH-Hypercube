@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDataVector_.a  CMakeFiles/DataVector_.dir/DataVector.cpp.o
+/usr/bin/ranlib libDataVector_.a

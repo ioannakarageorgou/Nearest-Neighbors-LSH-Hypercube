@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBruteForceResult.a  CMakeFiles/BruteForceResult.dir/BruteForce.cpp.o
+/usr/bin/ranlib libBruteForceResult.a

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NNFunctions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\NNFunctions\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NNFunctions">
+				<Option output="/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/libNNFunctions.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 NNFunctions"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NNFunctions/fast">
+				<Option output="/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/libNNFunctions.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 NNFunctions/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/qwerty/CLionProjects/emiris1/lsh/cmake-build-debug/NNFunctions/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions/NNFunctions.cpp">
+			<Option target="NNFunctions"/>
+		</Unit>
+		<Unit filename="/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions/NNFunctions.h">
+			<Option target="NNFunctions"/>
+		</Unit>
+		<Unit filename="/home/qwerty/CLionProjects/emiris1/lsh/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\NNFunctions\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

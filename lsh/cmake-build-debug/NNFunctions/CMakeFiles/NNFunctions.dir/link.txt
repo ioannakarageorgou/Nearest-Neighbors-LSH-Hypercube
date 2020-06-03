@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNNFunctions.a  CMakeFiles/NNFunctions.dir/NNFunctions.cpp.o
+/usr/bin/ranlib libNNFunctions.a

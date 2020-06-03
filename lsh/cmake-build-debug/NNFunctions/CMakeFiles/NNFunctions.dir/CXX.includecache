@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwerty/CLionProjects/emiris1/CommonClasses/DataVector/DataVector.h
+string
+-
+vector
+-
+
+/home/qwerty/CLionProjects/emiris1/CommonClasses/NNResult/NNResult.h
+map
+-
+../../CommonClasses/DataVector/DataVector.h
+/home/qwerty/CLionProjects/emiris1/CommonClasses/DataVector/DataVector.h
+chrono
+-
+
+/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions/NNFunctions.cpp
+chrono
+-
+iostream
+-
+NNFunctions.h
+/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions/NNFunctions.h
+
+/home/qwerty/CLionProjects/emiris1/lsh/NNFunctions/NNFunctions.h
+map
+-
+../../CommonClasses/DataVector/DataVector.h
+/home/qwerty/CLionProjects/emiris1/CommonClasses/DataVector/DataVector.h
+../../CommonClasses/NNResult/NNResult.h
+/home/qwerty/CLionProjects/emiris1/CommonClasses/NNResult/NNResult.h
+

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="emiris1" targetName="emiris1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" BUILD_OPTIONS="-j 4" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3f039a0-9b22-4078-9914-c352daf4b8e0" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/Point.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/Curve.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/Grid.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/LshCurve.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/home/qwerty/CLionProjects/emiris1/CommonClasses/FileUtils/FileUtils.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/home/qwerty/CLionProjects/emiris1/CommonClasses/NNFunctions/NNFunctions.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/home/qwerty/CLionProjects/emiris1/CommonClasses/NNResult/NNResult.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/init.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommonClasses/Euclidean.h" beforeDir="false" afterPath="$PROJECT_DIR$/../CommonClasses/Euclidean.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/Curve.h" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/Curve.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/CurveGridLsh.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CurveGridLsh" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CurveGridLsh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CurveGridLsh.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/CurveGridLsh.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CurveGridLsh/init.h" beforeDir="false" afterPath="$PROJECT_DIR$/../CurveGridLsh/init.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/lshManhattan.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/lshManhattan.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/emiris1.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/emiris1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/emiris1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/emiris1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/emiris1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/output.txt" afterDir="false" />
+>>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/lshManhattan.h" beforeDir="false" afterPath="$PROJECT_DIR$/lshManhattan.h" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1S9okjTBKG54qsziEKh6UL8tH4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aaaa/fff" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CommonClasses" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="emiris1" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-d d -q  d -o o -k 4 -L 5" PASS_PARENT_ENVS_2="true" PROJECT_NAME="emiris1" TARGET_NAME="emiris1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="emiris1" RUN_TARGET_NAME="emiris1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3f039a0-9b22-4078-9914-c352daf4b8e0" name="Default Changelist" comment="" />
+      <created>1570985317948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570985317948</updated>
+      <workItem from="1570985319096" duration="4327000" />
+      <workItem from="1571006705065" duration="19000" />
+      <workItem from="1571079471207" duration="4954000" />
+      <workItem from="1571112603242" duration="1925000" />
+      <workItem from="1571220710570" duration="2178000" />
+      <workItem from="1571229481620" duration="106000" />
+      <workItem from="1571311532831" duration="620000" />
+      <workItem from="1571312843822" duration="994000" />
+      <workItem from="1571480925282" duration="1280000" />
+      <workItem from="1571486159808" duration="331000" />
+      <workItem from="1571564157457" duration="3724000" />
+      <workItem from="1571578555553" duration="4387000" />
+      <workItem from="1571585718724" duration="8000" />
+      <workItem from="1571585844994" duration="896000" />
+      <workItem from="1571591164076" duration="58000" />
+      <workItem from="1571607060088" duration="1311000" />
+      <workItem from="1571667724088" duration="4609000" />
+      <workItem from="1571675235175" duration="19000" />
+<<<<<<< Updated upstream
+      <workItem from="1571675259530" duration="1367000" />
+      <workItem from="1571679323101" duration="217000" />
+=======
+      <workItem from="1571675259530" duration="1295000" />
+      <workItem from="1571676690315" duration="2622000" />
+>>>>>>> Stashed changes
+    </task>
+    <task id="LOCAL-00001" summary="template">
+      <created>1571676582238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571676582238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="template" />
+    <option name="LAST_COMMIT_MESSAGE" value="template" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Google_Tests_run.dir/DataVectorTest.cpp.o  -o Google_Tests_run -lDataVector ../lib/libgtestd.a ../lib/libgtest_maind.a ../lib/libgtestd.a -lpthread 
