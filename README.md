@@ -1,7 +1,7 @@
 ## Nearest and radius neighbors with LSH and hypercube for points and polygonal curves
 
 ##### LSH
-*lshManhattan.h *
+*lshManhattan.h*
 
 *struct Entries* : structure that contains the elements on which we implement LSH on. It	stores point for this exact implementation.
 
