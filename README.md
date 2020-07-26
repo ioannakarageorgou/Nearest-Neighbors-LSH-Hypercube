@@ -29,3 +29,16 @@ Appr Dist / Real Dist = 8.05714
 Average Exact execution time:0.306304
 
 Average Approx execution time:0.00295837
+
+Appr Dist / Real Dist = 1.07017
+
+
+
+
+**Curve Hypercube**
+
+Average Exact execution time:0.316523
+
+Average Approx execution time:0.115552
+
+Appr Dist / Real Dist = 1.00134
